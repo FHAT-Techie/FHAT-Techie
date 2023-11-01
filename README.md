@@ -6,7 +6,4 @@ I'm a Software Engineer and UI/UX Designer who currently studing Front-End Devel
 - 🌱 I’m currently learning Javscript And UI/UX
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me [](https://twitter.com/Fhatboy_UI) [
-](https://www.linkedin.com/in/chuks-omeifeukwu-17938b272/) [<](https://www.behance.net/chuksomeifeukwu)!---
-FHAT-Techie/FHAT-Techie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+](https://www.linkedin.com/in/chuks-omeifeukwu-17938b272/) [](https://www.behance.net/chuksomeifeukwu)
